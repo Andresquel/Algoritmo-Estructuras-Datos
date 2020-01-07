@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1578431562 source:c:\users\algoritmos\desktop\nueva carpeta\buslineal\main.cpp
+	<iostream>
+	<fstream>
+
